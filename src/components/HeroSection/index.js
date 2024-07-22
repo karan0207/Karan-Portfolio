@@ -1,9 +1,13 @@
 import React from 'react'
 import HeroBgAnimation from '../HeroBgAnimation'
-import { HeroContainer, HeroBg, HeroLeftContainer, Img, HeroRightContainer, HeroInnerContainer, TextLoop, Title, Span, SubTitle,SocialMediaIcons,SocialMediaIcon, ResumeButton } from './HeroStyle'
-import HeroImg from '../../images/HeroImage.jpg'
+import { HeroContainer, HeroBg, HeroLeftContainer, Img, HeroRightContainer, HeroInnerContainer, TextLoop, Title, Span, SubTitle, ResumeButton } from './HeroStyle'
+// ,SocialMediaIcons,SocialMediaIcon,
+// import HeroImg from '../../images/HeroImage.jpg'
 import Typewriter from 'typewriter-effect';
 import { Bio } from '../../data/constants';
+// import karantwitter from '../../images/karantwitter.jpg';
+import karansocial from '../../images/karansocialpic.png'
+import '../../App.css'
 
 const HeroSection = () => {
     return (
@@ -33,7 +37,7 @@ const HeroSection = () => {
 
                     <HeroRightContainer id="Right">
 
-                        <Img src={HeroImg} alt="hero-image" />
+                        <Img src={karansocial} alt="hero-image" className='dark' />
                     </HeroRightContainer>
                 </HeroInnerContainer>
 
@@ -42,4 +46,4 @@ const HeroSection = () => {
     )
 }
 
-export default HeroSection
+export default HeroSection;
