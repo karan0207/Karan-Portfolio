@@ -1,14 +1,15 @@
 export const Bio = {
   name: "Karan Singh Chandel",
   roles: [
-        "Full Stack Developer",
+      "Full Stack Developer",
+      "Product Manager",
      "Community Manager ",
     "Quality Assurance dev",
-    "Web designer",
+  
    
   ],
   description:
-     "I am a Software developer working on Full-stack technologies and Quality assurance to provide best solutions to customers. I am also Developer's Community Manager providing technical support, documentation around product and latest release of games and tools. I am passionate about different tech stack and web services, I also build SaaS platform and products to launch.",
+     "I am a Software developer working on Full-stack technologies and Quality assurance to provide best solutions to customers. I am also Developer's Community Manager providing technical support, documentation around product and latest release of games and tools. I am passionate about different tech stack and web services, I also manage SaaS Products and KPI's to release new features, perform research and talk with clients.",
   github: "https://github.com/karan0207",
   resume:
     "https://drive.google.com/file/d/1HCHR7n76n7j9giS9fP5BVn6K_m150por/view?usp=drive_link",
