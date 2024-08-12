@@ -12,7 +12,7 @@ export const Bio = {
      "I am a Software developer working on Full-stack technologies and Quality assurance to provide best solutions to customers. I am also Developer's Community Manager providing technical support, documentation around product and latest release of games and tools. I am passionate about different tech stack and web services, I also manage SaaS Products and KPI's to release new features, perform research and talk with clients.",
   github: "https://github.com/karan0207",
   resume:
-    "https://drive.google.com/file/d/1HCHR7n76n7j9giS9fP5BVn6K_m150por/view?usp=drive_link",
+    "https://drive.google.com/file/d/16jDbLQ09joLZjHmPyLiyM7mjFOvmYUm_/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/karan-singh-chandel-852646213",
   twitter: "https://x.com/karan0207s",
   // insta: "https://www.instagram.com/your insta/",
