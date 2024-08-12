@@ -186,10 +186,28 @@ export const experiences = [
   {
     id: 0,
     img: "https://static.tildacdn.com/tild6364-3936-4634-a335-333363643562/alphagames_logoicon_.svg",
-    role: " Dev Community Manager | Full-Stack Engineer",
+    role: "Full-Stack Engineer | Dev Community Manager",
     company: "Alpha Gaming Inc",
-    date: "Aug 2023 - July 2023",
+    date: "Aug 2021 - July 2023",
     desc: "Built prototype products using react,Next JS, typescript in collaboration with product managers to showcase the ideas to clients. Worked closely with internal teams to integrate community feedback into development projects and resolve devs problems.",
+    skills: [
+      "React Js",
+      "Next Js",
+      "JavaScript",
+      "TypeScript",
+      "Node Js",
+     
+    ],
+    // doc: "document link",
+  },
+  
+   {
+    id: 0,
+    img: "https://static.tildacdn.com/tild6364-3936-4634-a335-333363643562/alphagames_logoicon_.svg",
+    role: "Programming Intern",
+    company: "EA Games",
+    date: "October - December 2023",
+    desc: " Built features of In-game characters using object oriented programming, Researched and Implemented Entity Relationship model to define relation between different objects, Worked on a major project to add properties of character in a shooting game.",
     skills: [
       "React Js",
       "Next Js",
@@ -203,7 +221,7 @@ export const experiences = [
   {
     id: 0,
     img: "https://imgs.search.brave.com/-w3N3U41PSN_NsMAveuOISUY2UbR9mtqhNIpHenmKh8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9nZ3Rv/b3IuY29tL2ltYWdl/cy9nZ3Rvb3JjaXR5/L0dHdG9vckNpdHlM/T0dPTWVkaXVtLnBu/Zw",
-    role: " Quality Assurance | Techincal content writer",
+    role: " SDE intern | Quality Assurance | Techincal content writer",
     company: "GGToor Inc",
     date: "March 2020 - 2021",
     desc: "Planned and executed strategies for automatic and manual testing of new features in gaming softwares with tools like playwright.",
