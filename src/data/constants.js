@@ -209,11 +209,11 @@ export const experiences = [
     date: "October - December 2023",
     desc: " Built features of In-game characters using object oriented programming, Researched and Implemented Entity Relationship model to define relation between different objects, Worked on a major project to add properties of character in a shooting game.",
     skills: [
-      "React Js",
-      "Next Js",
+      "C++",
+      "Unity",
       "JavaScript",
-      "TypeScript",
-      "Node Js",
+      "SQL",
+      "Threading",
      
     ],
     // doc: "document link",
