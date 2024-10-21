@@ -2,14 +2,14 @@ export const Bio = {
   name: "Karan Singh Chandel",
   roles: [
       "Full Stack Developer",
-      "Product Manager",
-     "Community Manager ",
-    "Quality Assurance dev",
+      "DevRel",
+     "Frontend Engineer",
+    "Blockchain Dev",
   
    
   ],
   description:
-     "I am a Software developer working on Full-stack technologies and Quality assurance to provide best solutions to customers. I am also Developer's Community Manager providing technical support, documentation around product and latest release of games and tools. I am passionate about different tech stack and web services, I also manage SaaS Products and KPI's to release new features, perform research and talk with clients.",
+     "I’m a Software Developer specializing in Full-stack technologies and Quality Assurance to deliver optimal solutions for customers. As a DevRel, I provide technical support, create product documentation, and manage game and tool releases. I'm passionate about diverse tech stacks, web services, and managing SaaS products, including KPI tracking, feature releases, research, and client interactions.",
   github: "https://github.com/karan0207",
   resume:
     "https://drive.google.com/file/d/16jDbLQ09joLZjHmPyLiyM7mjFOvmYUm_/view?usp=drive_link",
@@ -467,8 +467,34 @@ export const projects = [
   //   github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
   //   webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
   // },
-  {
+    {
     id: 1,
+    title: "Autify",
+    date: "Jan 2021",
+    description:
+      "Autify is a SaaS (Software as a Service) solution designed to automate business workflows. With Autify, users can seamlessly integrate various platforms such as Notion, Slack, Discord, and Google Drive.",
+    image:
+      "https://github.com/karan0207/Autify/raw/main/public/autifyhome.png",
+    tags: ["Next JS", "PostreSql", "Zustand", "React flow", "Third party API's"],
+    category: "web app",
+    github: "https://github.com/karan0207/Autify",
+    webapp: "https://github.com/karan0207/Autify",
+  },
+   {
+    id: 2,
+    title: "Rust Projects",
+    date: "Jan 2021",
+    description:
+      "Built protocols and multiple system design functionalities from scratch using rust, It includes NFT, blockchain, file, syncing, state parsing and lot more. ",
+    image:
+      "https://imgs.search.brave.com/nT6E_S-17iNa1YG5mZL4mvCYysafwjhlM55qbK0ZChI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/LmxvZ3JvY2tldC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjIvMDUvZGVjb2Rp/bmctZW5jb2Rpbmct/aW1hZ2VzLXJ1c3Qt/dXNpbmctaW1hZ2Ut/Y3JhdGUucG5n",
+    tags: ["Rust", "Protocols", "System Design", "Blockchain"],
+    category: "core functionalities",
+    github: "https://github.com/karan0207/Rust-project",
+    webapp: "https://github.com/karan0207/Rust-project",
+  },
+  {
+    id: 3,
     title: "SwipeCart",
     date: "Jan 2021",
     description:
@@ -481,7 +507,7 @@ export const projects = [
     webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
   },
   {
-    id: 2,
+    id: 4,
     title: "Blogify",
     date: "Jan 2021",
     description:
@@ -494,7 +520,7 @@ export const projects = [
     webapp: "https://karan-blogify.vercel.app/",
   },
   {
-    id: 3,
+    id: 5,
     title: "Animix-Osu",
     date: "Jan 2021",
     description:
