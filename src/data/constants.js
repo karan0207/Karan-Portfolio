@@ -3,8 +3,8 @@ export const Bio = {
   roles: [
       "Full Stack Developer",
       "DevRel",
-     "Frontend Engineer",
-    "Blockchain Dev",
+      "Frontend Engineer",
+      "Blockchain Dev",
   
    
   ],
@@ -12,8 +12,8 @@ export const Bio = {
      "I’m a Software Developer specializing in Full-stack technologies and Quality Assurance to deliver optimal solutions for customers. As a DevRel, I provide technical support, create product documentation, and manage game and tool releases. I'm passionate about diverse tech stacks, web services, and managing SaaS products, including KPI tracking, feature releases, research, and client interactions.",
   github: "https://github.com/karan0207",
   resume:
-    "https://drive.google.com/file/d/16jDbLQ09joLZjHmPyLiyM7mjFOvmYUm_/view?usp=drive_link",
-  linkedin: "https://www.linkedin.com/in/karan-singh-chandel-852646213",
+    "https://drive.google.com/file/d/12RGhi1yQV9mHdoWt7GmLcflH4MDajnu5/view?usp=drive_link",
+  linkedin: "https://www.linkedin.com/in/karan-s-chandel",
   twitter: "https://x.com/karan0207s",
   // insta: "https://www.instagram.com/your insta/",
   // facebook: "https://www.facebook.com/your fb id",
@@ -221,7 +221,7 @@ export const experiences = [
   {
     id: 0,
     img: "https://imgs.search.brave.com/-w3N3U41PSN_NsMAveuOISUY2UbR9mtqhNIpHenmKh8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9nZ3Rv/b3IuY29tL2ltYWdl/cy9nZ3Rvb3JjaXR5/L0dHdG9vckNpdHlM/T0dPTWVkaXVtLnBu/Zw",
-    role: " SDE intern | Quality Assurance | Techincal content writer",
+    role: "Frontend Developer | Quality Assurance and SEO",
     company: "GGToor Inc",
     date: "March 2020 - 2021",
     desc: "Planned and executed strategies for automatic and manual testing of new features in gaming softwares with tools like playwright.",
@@ -238,8 +238,8 @@ export const experiences = [
   {
     id: 0,
     img: "https://imgs.search.brave.com/3v3VHYGYRXjBP2lbNN56Kj7c3GG0KhIWVxuGI6lMEJs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2QyL1Vwd29yay1s/b2dvLnN2Zw",
-    role: "Freelance Services:Fullstack Developer",
-    company: "Upwork",
+    role: "Junior Fullstack Developer",
+    company: "Upwork & Turing",
     date: "2018-2022",
     desc: "Worked with multiple clients to provide services related to software development and Quality assurance in Ecommerce and Gaming sector. Organized and managed community of 12,000+ members in different social media platforms. ",
     skills: [
