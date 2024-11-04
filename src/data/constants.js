@@ -204,7 +204,7 @@ export const experiences = [
    {
     id: 0,
     img: "https://imgs.search.brave.com/3n1-zuwZGVMJAeM3wq-cy1xW1KIMoShyb0ZKugrfwRI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy13b3JsZC5uZXQv/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MDgvRUEtRW1ibGVt/LTcwMHgzOTQucG5n",
-    role: "Programming Intern",
+    role: "Full-Stack Developer",
     company: "EA Games",
     date: "October - December 2023",
     desc: " Built features of In-game characters using object oriented programming, Researched and Implemented Entity Relationship model to define relation between different objects, Worked on a major project to add properties of character in a shooting game.",
