@@ -206,13 +206,14 @@ export const experiences = [
     role: "DevRel and Community Manger",
     company: "Alpha Ventures",
     date: "12 Months",
-    desc: "Built prototype products using react,Next JS, typescript in collaboration with product managers to showcase the ideas to clients. Worked closely with internal teams to integrate community feedback into development projects and resolve devs problems.",
+    desc: "Conducted technical product demonstrations for stakeholders and facilitated collaboration between the
+development team to resolve issues efficiently.",
     skills: [
-      "React Js",
+      "Product Demo",
       "Next Js",
       "JavaScript",
       "TypeScript",
-      "Node Js",
+      "Public Speaking",
      
     ],
     // doc: "document link",
