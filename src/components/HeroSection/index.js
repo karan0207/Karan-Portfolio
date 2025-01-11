@@ -37,7 +37,7 @@ const HeroSection = () => {
 
                     <HeroRightContainer id="Right">
 
-                        <Img src="https://media1.tenor.com/m/Cq9qdZWT4aIAAAAC/rurouni-kenshin-2023-rurouni-kenshin-2024.gif" alt="hero-image" className='dark' />
+                        <Img src="/twittercbf.png" alt="hero-image" className='dark' />
                     </HeroRightContainer>
                 </HeroInnerContainer>
 
