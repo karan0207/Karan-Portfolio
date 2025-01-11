@@ -187,7 +187,7 @@ export const experiences = [
     id: 0,
     img: "https://static.tildacdn.com/tild6364-3936-4634-a335-333363643562/alphagames_logoicon_.svg",
     role: "SDE Intern | Full-Stack Developer",
-    company: "Alpha Gaming Inc",
+    company: "Outlier Inc",
     date: "6 Months",
     desc: "Built prototype products using react,Next JS, typescript in collaboration with product managers to showcase the ideas to clients. Worked closely with internal teams to integrate community feedback into development projects and resolve devs problems.",
     skills: [
@@ -204,7 +204,7 @@ export const experiences = [
     id: 0,
     img: "https://static.tildacdn.com/tild6364-3936-4634-a335-333363643562/alphagames_logoicon_.svg",
     role: "DevRel and Community Manger",
-    company: "Alpha Gaming Inc",
+    company: "Alpha Ventures",
     date: "12 Months",
     desc: "Built prototype products using react,Next JS, typescript in collaboration with product managers to showcase the ideas to clients. Worked closely with internal teams to integrate community feedback into development projects and resolve devs problems.",
     skills: [
