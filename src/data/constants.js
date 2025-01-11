@@ -206,8 +206,7 @@ export const experiences = [
     role: "DevRel and Community Manger",
     company: "Alpha Ventures",
     date: "12 Months",
-    desc: "Conducted technical product demonstrations for stakeholders and facilitated collaboration between the
-development team to resolve issues efficiently.",
+    desc: "Conducted technical product demonstrations for stakeholders and facilitated collaboration between the development team to resolve issues efficiently.",
     skills: [
       "Product Demo",
       "Next Js",
