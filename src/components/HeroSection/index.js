@@ -37,7 +37,7 @@ const HeroSection = () => {
 
                     <HeroRightContainer id="Right">
 
-                        <Img src="/twittercbf.png" alt="hero-image" className='dark' />
+                        <Img src="/twitter23.png" alt="hero-image" className='dark' />
                     </HeroRightContainer>
                 </HeroInnerContainer>
 
