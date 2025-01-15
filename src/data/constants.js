@@ -3,13 +3,13 @@ export const Bio = {
   roles: [
       "Full Stack Developer",
       "DevRel",
-      "Frontend Engineer",
-      "Blockchain Dev",
+      "Tech Support",
+      "SaaS Development",
   
    
   ],
   description:
-     "I’m a Software Developer specializing in Full-stack technologies and Quality Assurance to deliver optimal solutions for customers. As a DevRel, I provide technical support, create product documentation, and manage game and tool releases. I'm passionate about diverse tech stacks, web services, and managing SaaS products, including KPI tracking, feature releases, research, and client interactions.",
+     "I’m a Software Developer specializing in Full-stack technologies  to deliver quality products for customers. As a DevRel, I provide technical support, create product documentation, and manage game and tool releases. I'm passionate about diverse tech stacks, web services, and managing SaaS products, including KPI tracking, feature releases, research, and client interactions.",
   github: "https://github.com/karan0207",
   resume:
     "https://drive.google.com/file/d/12RGhi1yQV9mHdoWt7GmLcflH4MDajnu5/view?usp=drive_link",
@@ -186,7 +186,7 @@ export const experiences = [
   {
     id: 0,
     img: "https://static.tildacdn.com/tild6364-3936-4634-a335-333363643562/alphagames_logoicon_.svg",
-    role: "SDE Intern | Full-Stack Developer",
+    role: "Full-Stack and AI Engineer",
     company: "Outlier Inc",
     date: "6 Months",
     desc: "Built prototype products using react,Next JS, typescript in collaboration with product managers to showcase the ideas to clients. Worked closely with internal teams to integrate community feedback into development projects and resolve devs problems.",
