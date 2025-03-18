@@ -203,7 +203,7 @@ export const experiences = [
   {
     id: 0,
     img: "https://static.tildacdn.com/tild6364-3936-4634-a335-333363643562/alphagames_logoicon_.svg",
-    role: "Full-Stack Dev intern",
+    role: "Full-Stack Developer intern",
     company: "Turing Inc",
     date: "6 Months",
     desc: "Contributing to frontend and backend of hiring platform in react, next.js and javascript frameworks, Also doing backend in python and golang of llm projects.",
