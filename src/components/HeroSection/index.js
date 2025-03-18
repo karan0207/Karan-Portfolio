@@ -37,7 +37,7 @@ const HeroSection = () => {
 
                     <HeroRightContainer id="Right">
 
-                        <Img src="/karan-main-pic.png" alt="hero-image" className='dark' />
+                        <Img src="/karan-bg.png" alt="hero-image" className='dark' />
                     </HeroRightContainer>
                 </HeroInnerContainer>
 
