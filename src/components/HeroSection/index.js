@@ -6,12 +6,12 @@ import { HeroContainer, HeroBg, HeroLeftContainer, Img, HeroRightContainer, Hero
 import Typewriter from 'typewriter-effect';
 import { Bio } from '../../data/constants';
 // import karantwitter from '../../images/karantwitter.jpg';
-import karansocial from '../../images/karansocialpic.png'
+// import karansocial from '../../images/karansocialpic.png'
 import '../../App.css'
 
 const HeroSection = () => {
     return (
-        <div id="about">
+        <div id="about" >
             <HeroContainer>
                 <HeroBg>
                     <HeroBgAnimation />
@@ -37,6 +37,7 @@ const HeroSection = () => {
 
                     <HeroRightContainer id="Right">
 
+                        {/* <Img src="/contributions.png" alt="hero-image" className='dark' /> */}
                         <Img src="/karan-bg.png" alt="hero-image" className='dark' />
                     </HeroRightContainer>
                 </HeroInnerContainer>

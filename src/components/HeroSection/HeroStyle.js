@@ -2,7 +2,8 @@ import styled from "styled-components";
 import _default from "../../themes/default";
 
 export const HeroContainer = styled.div`
-  background: ${({ theme }) => theme.card_light};
+  ${'' /* background: ${({ theme }) => theme.card_light}; */}
+  background:black;
   display: flex;
   justify-content: center;
   position: relative;
@@ -80,6 +81,8 @@ export const HeroRightContainer = styled.div`
   order: 2;
   justify-content: end;
   gap: 12px;
+  overflow: hidden; 
+  
   @media (max-width: 960px) {
     order: 1;
     justify-content: center;
@@ -96,19 +99,23 @@ export const Img = styled.img`
   position: relative;
   width: 100%;
   height: 100%;
-  max-width: 410px;
-  max-height: 450px;
-  border-radius: 50%;
-  border: 2px solid ${({ theme }) => theme.primary};
+  max-width: 380px;
+  max-height: 500px;
+  ${'' /* border-radius: 20%; */}
+  border: 1px solid ${({ theme }) => theme.primary};
+  ${'' /* transform: scale(); */}
+
+ 
+  
 
   @media (max-width: 768px) {
-    max-width: 395px;
-    max-height: 400px;
+    max-width: 305px;
+    max-height: 410px;
   }
 
   @media (max-width: 640px) {
     max-width: 240px;
-    max-height: 280px;
+    max-height: 300px;
   }
 `;
 
