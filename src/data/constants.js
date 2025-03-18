@@ -185,7 +185,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://static.tildacdn.com/tild6364-3936-4634-a335-333363643562/alphagames_logoicon_.svg",
+    img: "https://imgs.search.brave.com/QPz1Iv3g63XpOxM1pVaXY04En9Rw8TQHkfNTXgVB_Ws/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZmFoaW1haS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjQv/MDgvQ1RBLTgucG5n",
     role: "Full-Stack and AI intern",
     company: "Outlier ai",
     date: "6 Months",
@@ -202,7 +202,7 @@ export const experiences = [
   },
   {
     id: 0,
-    img: "https://static.tildacdn.com/tild6364-3936-4634-a335-333363643562/alphagames_logoicon_.svg",
+    img: "https://imgs.search.brave.com/reWpGnDVvyrUzSxXmKjmoa1bQLxnloBrYe-haiOMNGk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAzLzY0LzU2LzQ2/LzM2MF9GXzM2NDU2/NDYzMF9abTNXcmE3/N2Vqa1FGV3FPdVRo/QWE5UGtZU0hsM2tT/VC5qcGc",
     role: "Full-Stack Developer intern",
     company: "Turing Inc",
     date: "6 Months",
@@ -220,7 +220,7 @@ export const experiences = [
   
    {
     id: 0,
-    img: "https://imgs.search.brave.com/3n1-zuwZGVMJAeM3wq-cy1xW1KIMoShyb0ZKugrfwRI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy13b3JsZC5uZXQv/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MDgvRUEtRW1ibGVt/LTcwMHgzOTQucG5n",
+    img: "https://imgs.search.brave.com/1LGlyOPvRrNdwRPwGqbbbr2gMF3UznaXC2Mlrpoc8tE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZGV2LnRvL2R5/bmFtaWMvaW1hZ2Uv/d2lkdGg9ODAwLGhl/aWdodD0sZml0PXNj/YWxlLWRvd24sZ3Jh/dml0eT1hdXRvLGZv/cm1hdD1hdXRvL2h0/dHBzOi8vZGV2LXRv/LXVwbG9hZHMuczMu/YW1hem9uYXdzLmNv/bS91cGxvYWRzL2Fy/dGljbGVzL2k4bnow/bWNuY2xqb3lxanRj/OTZ3LnBuZw",
     role: "Open Source Contributor and Devrel intern  ",
     company: "oss.gg ",
     date: "3 Months",
