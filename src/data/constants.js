@@ -206,7 +206,7 @@ export const experiences = [
     role: "Full-Stack Developer",
     company: "Turing Inc",
     date: "9 Months",
-    desc: "Contributing to frontend and backend of hiring platform in react, next.js and javascript frameworks, Also doing backend in python and golang of llm projects.",
+    desc: "Played a key role in developing and maintaining the hiring platform using React, Next.js, and JavaScript frameworks, ensuring a seamless user experience and optimized performance. Contributed to backend development for AI-driven projects, utilizing Python and Golang to build scalable and efficient systems supporting large language models (LLMs).",
     skills: [
       "Product Demo",
       "Next Js",
@@ -236,9 +236,9 @@ export const experiences = [
   },
    {
     id: 3,
-   img: "https://imgs.search.brave.com/-w3N3U41PSN_NsMAveuOISUY2UbR9mtqhNIpHenmKh8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9nZ3Rv/b3IuY29tL2ltYWdl/cy9nZ3Rvb3JjaXR5/L0dHdG9vckNpdHlM/T0dPTWVkaXVtLnBu/Zw",
+   img: "https://imgs.search.brave.com/zgMgj_9wWvAFYPE20HbO1wdDhS4WvxFlo5-brR94EXY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtY2RuLmp0dm53/Lm5ldC9qdHZfdXNl/cl9waWN0dXJlcy9m/M2NmNDc4Ni1iYTE2/LTQxNmEtOWUyMy0y/NDc2NWE2NzEwODQt/cHJvZmlsZV9pbWFn/ZS0zMDB4MzAwLnBu/Zw",
     role: "React Developer and DevRel Mod",
-    company: "GGToor Inc and Autify",
+    company: "GGToor Inc",
     date: "1 Year",
     desc: "Planned and executed strategies for automatic and manual testing of new features in gaming softwares with tools like playwright.",
     skills: [
