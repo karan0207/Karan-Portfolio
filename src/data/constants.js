@@ -520,7 +520,7 @@ export const projects = [
     {
     id: 1,
     title: "Autify",
-    date: "Jan 2021",
+    date: "2024",
     description:
       "Autify is a SaaS (Software as a Service) solution designed to automate business workflows. With Autify, users can seamlessly integrate various platforms such as Notion, Slack, Discord, and Google Drive.",
     image:
@@ -533,7 +533,7 @@ export const projects = [
    {
     id: 2,
     title: "Rust Projects",
-    date: "Jan 2021",
+    date: "2023-2024",
     description:
       "Built protocols and multiple system design functionalities from scratch using rust, It includes NFT, blockchain, file, syncing, state parsing and lot more. ",
     image:
@@ -546,7 +546,7 @@ export const projects = [
   {
     id: 3,
     title: "SwipeCart",
-    date: "Jan 2021",
+    date: "Jan 2023",
     description:
       " Swipecart is a dynamic and user-friendly marketplace website designed to empower business owners in the digital realm. Implemented a dynamic admin dashboard with interactive graphs and automation features, resulting in a 40 percent reduction in order management time.",
     image:
@@ -559,7 +559,7 @@ export const projects = [
   {
     id: 4,
     title: "Blogify",
-    date: "Jan 2021",
+    date: "2022-203",
     description:
       "Blogify is a dynamic blog website designed to provide powerful dashboard for content writing and formating without going to third party platform. It's a full web app with authentication, blog post and dashboard features",
     image:
@@ -572,7 +572,7 @@ export const projects = [
   {
     id: 5,
     title: "Animix-Osu",
-    date: "Jan 2021",
+    date: "2022-2023",
     description:
       "A web-app to provide anime updates and content of best top rated animes, Built with javascript and html,css.",
     image:
@@ -584,10 +584,10 @@ export const projects = [
   },
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
-];
+// export const TimeLineData = [
+//   { year: 2017, text: "Started my journey" },
+//   { year: 2018, text: "Worked as a freelance developer" },
+//   { year: 2019, text: "Founded JavaScript Mastery" },
+//   { year: 2020, text: "Shared my projects with the world" },
+//   { year: 2021, text: "Started my own platform" },
+// ];
