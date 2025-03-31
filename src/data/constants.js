@@ -154,9 +154,8 @@ export const skills = [
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
       },
       {
-        name: "Netlify",
-        image:
-          "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+        name: "Kubernetes",
+        image:"https://imgs.search.brave.com/De3Tqzv-7X12-zhnCDi73HfoUfPY0dasRVAXzab6y_A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2dp/bGJhcmJhcmEvbG9n/b3MvbWFpbi9sb2dv/cy9rdWJlcm5ldGVz/LnN2Zw"
       },
       {
         name: "VS Code",
@@ -167,7 +166,8 @@ export const skills = [
         name: "Postman",
         image:
           "https://imgs.search.brave.com/6aVW64lywy3pCZ92XZZWT4x2dCJZAfThpPqiODIo7gI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jb21t/dW5pdHkuY2hvY29s/YXRleS5vcmcvY29u/dGVudC9wYWNrYWdl/aW1hZ2VzL3Bvc3Rt/YW4uMTEuMS4wLnBu/Zw",
-      },
+      }
+      
       // {
       //   name: "Adobe XD",
       //   image:
@@ -185,7 +185,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://imgs.search.brave.com/QPz1Iv3g63XpOxM1pVaXY04En9Rw8TQHkfNTXgVB_Ws/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZmFoaW1haS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjQv/MDgvQ1RBLTgucG5n",
+    img: "https://imgs.search.brave.com/kJEVSFeEuN959e_-GHLVUZI6tcXUvxFbTg2UZJNlMUg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9vdXRs/aWVyLmJldC93cC1j/b250ZW50L3RoZW1l/cy95b3VyLWNsZWFu/LXRlbXBsYXRlL2Fz/c2V0cy9pbWcvY29t/bW9uL2xvZ290eXBl/LW1pZC5zdmc",
     role: "Software Developer: Full-Stack and AI ",
     company: "Outlier ai",
     date: "6 Months",
