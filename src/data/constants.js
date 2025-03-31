@@ -186,7 +186,7 @@ export const experiences = [
   {
     id: 0,
     img: "https://imgs.search.brave.com/QPz1Iv3g63XpOxM1pVaXY04En9Rw8TQHkfNTXgVB_Ws/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZmFoaW1haS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjQv/MDgvQ1RBLTgucG5n",
-    role: "Full-Stack and AI intern",
+    role: "Software Developer: Full-Stack and AI ",
     company: "Outlier ai",
     date: "6 Months",
     desc: "Built prototype products using react,Next JS, typescript in collaboration with product managers to showcase the ideas to clients. Worked closely with internal teams to integrate community feedback into development projects and resolve devs problems.",
@@ -201,11 +201,11 @@ export const experiences = [
     // doc: "document link",
   },
   {
-    id: 0,
+    id: 1,
     img: "https://imgs.search.brave.com/reWpGnDVvyrUzSxXmKjmoa1bQLxnloBrYe-haiOMNGk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAzLzY0LzU2LzQ2/LzM2MF9GXzM2NDU2/NDYzMF9abTNXcmE3/N2Vqa1FGV3FPdVRo/QWE5UGtZU0hsM2tT/VC5qcGc",
-    role: "Full-Stack Developer intern",
+    role: "Full-Stack Developer",
     company: "Turing Inc",
-    date: "6 Months",
+    date: "9 Months",
     desc: "Contributing to frontend and backend of hiring platform in react, next.js and javascript frameworks, Also doing backend in python and golang of llm projects.",
     skills: [
       "Product Demo",
@@ -217,9 +217,42 @@ export const experiences = [
     ],
     // doc: "document link",
   },
+  {
+    id: 2,
+    img: "https://imgs.search.brave.com/MaoM81J7zVEZgBIn34mKANAvTCqXrSgHOjnNnKvYNNc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzg2LzE3LzI3/LzM2MF9GXzI4NjE3/MjczMl9YZ2xTRm5a/ZEVIYm13RGs1VUNs/SlZRbllnOHIzOVRN/Vy5qcGc",
+    role: "Open Source Community Moderator  ",
+    company: "Alpha Gaming",
+    date: "1 Year",
+    desc: "I worked as DevRel where I managed open source and tech community of alpha gaming. Providing support to AAA studio developer's on our products, onboarding and releasing updates over community. I also built documentations, created tutorials of products and attended events to represent company in various events across APAC.",
+    skills: [
+      "OpenSOurce",
+      "Discord",
+      "Github",
+      "Frontend",
+      "Tech Support",
+     
+    ],
+    // doc: "document link",
+  },
+   {
+    id: 3,
+   img: "https://imgs.search.brave.com/-w3N3U41PSN_NsMAveuOISUY2UbR9mtqhNIpHenmKh8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9nZ3Rv/b3IuY29tL2ltYWdl/cy9nZ3Rvb3JjaXR5/L0dHdG9vckNpdHlM/T0dPTWVkaXVtLnBu/Zw",
+    role: "React Developer and DevRel Mod",
+    company: "GGToor Inc and Autify",
+    date: "1 Year",
+    desc: "Planned and executed strategies for automatic and manual testing of new features in gaming softwares with tools like playwright.",
+    skills: [
+     "Javascipt",
+      "Playwright",
+    "testing",
+  "documentation",
+     "debugging docs",
+     
+   ],
+   },
   
    {
-    id: 0,
+    id: 4,
     img: "https://imgs.search.brave.com/1LGlyOPvRrNdwRPwGqbbbr2gMF3UznaXC2Mlrpoc8tE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZGV2LnRvL2R5/bmFtaWMvaW1hZ2Uv/d2lkdGg9ODAwLGhl/aWdodD0sZml0PXNj/YWxlLWRvd24sZ3Jh/dml0eT1hdXRvLGZv/cm1hdD1hdXRvL2h0/dHBzOi8vZGV2LXRv/LXVwbG9hZHMuczMu/YW1hem9uYXdzLmNv/bS91cGxvYWRzL2Fy/dGljbGVzL2k4bnow/bWNuY2xqb3lxanRj/OTZ3LnBuZw",
     role: "Open Source Contributor and Devrel intern  ",
     company: "oss.gg ",
@@ -253,11 +286,11 @@ export const experiences = [
   //   // doc: "document link",
   // },
   {
-    id: 0,
+    id: 5,
     img: "https://imgs.search.brave.com/3v3VHYGYRXjBP2lbNN56Kj7c3GG0KhIWVxuGI6lMEJs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2QyL1Vwd29yay1s/b2dvLnN2Zw",
     role: " Freelance Developer",
     company: "Upwork",
-    date: "1 Years",
+    date: "2 Years",
     desc: "Worked with multiple clients to provide services related to software development and documenation of projects in Ecommerce and Gaming sector. Organized and managed community of 12,000+ members in different social media platforms. ",
     skills: [
       "Javascipt",
