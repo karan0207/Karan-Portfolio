@@ -188,7 +188,7 @@ export const experiences = [
     img: "https://imgs.search.brave.com/kJEVSFeEuN959e_-GHLVUZI6tcXUvxFbTg2UZJNlMUg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9vdXRs/aWVyLmJldC93cC1j/b250ZW50L3RoZW1l/cy95b3VyLWNsZWFu/LXRlbXBsYXRlL2Fz/c2V0cy9pbWcvY29t/bW9uL2xvZ290eXBl/LW1pZC5zdmc",
     role: "Software Developer: Full-Stack and AI ",
     company: "Outlier ai",
-    date: "6 Months",
+    date: "Current",
     desc: "Built prototype products using react,Next JS, typescript in collaboration with product managers to showcase the ideas to clients. Worked closely with internal teams to integrate community feedback into development projects and resolve devs problems.",
     skills: [
       "React Js",
@@ -591,3 +591,4 @@ export const projects = [
 //   { year: 2020, text: "Shared my projects with the world" },
 //   { year: 2021, text: "Started my own platform" },
 // ];
+
